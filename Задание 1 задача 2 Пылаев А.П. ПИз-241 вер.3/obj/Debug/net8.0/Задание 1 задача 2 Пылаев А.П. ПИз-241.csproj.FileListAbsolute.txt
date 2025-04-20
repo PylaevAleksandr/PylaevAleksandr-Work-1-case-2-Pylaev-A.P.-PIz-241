@@ -1,0 +1,4 @@
+C:\Users\Professional\Desktop\Задание 1 задача 2 Пылаев А.П. ПИз-241\obj\Debug\net8.0\Задание 1 задача 2 Пылаев А.П. ПИз-241.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Задание 1 задача 2 Пылаев А.П. ПИз-241\obj\Debug\net8.0\Задание 1 задача 2 Пылаев А.П. ПИз-241.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Задание 1 задача 2 Пылаев А.П. ПИз-241\obj\Debug\net8.0\Задание 1 задача 2 Пылаев А.П. ПИз-241.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Задание 1 задача 2 Пылаев А.П. ПИз-241\obj\Debug\net8.0\Задание 1 задача 2 Пылаев А.П. ПИз-241.csproj.CoreCompileInputs.cache
